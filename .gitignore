@@ -1,0 +1,12 @@
+# ROS 2 build files
+build/
+install/
+log/
+
+# Temporary and backup files
+*.save
+*~
+*.swp
+
+# Editor settings
+.vscode/
